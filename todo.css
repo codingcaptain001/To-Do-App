@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(4, 21, 36);
+}
+.content{
+    background-color: rgb(248, 255, 253);
+    text-align: center;
+    width: 360px;
+    padding: 33px;
+    margin-left: 33%;
+    margin-top: 5px;
+}
+input{
+    width: 270px;
+    padding: 8px;
+    border: 2px solid rgb(76, 161, 161);
+    outline: none;
+    font-size: 19px;
+}
+button{
+    width: 80px;
+    height: 45px;
+    background-color: rgb(130, 59, 196);
+    color: rgb(70, 202, 158);
+    border: none;
+    outline: none;
+    border-radius: 2px;
+    font-size: 19px;
+}
+.list ul{
+    position: relative;
+    background-color: rgb(12, 22, 22);
+    color: white;
+    font-size: 19px;
+    text-align: left;
+}
+
+.list ul i{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+ }
+h2{
+    font-size: larger;
+}
